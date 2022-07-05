@@ -13,4 +13,4 @@ This was created in order to lean ordenation methods:
 - Tempo.py:
     Mede o tempo que cada algoritmo leva para realizar a ordenação, sempre considerando o mesmo vetor inicial, e faz a comparação.
     
-    It measures how long different algorithms takes to ordenate the same vector, and proceed the comparation.
+    It measures how long different algorithms takes to ordenate the same vector, and proceed the comparison.
